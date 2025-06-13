@@ -12,11 +12,8 @@
   <a href="https://medium.com/@denimarswandi" target="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/denimarswandi" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/denimarswandi" target="blank">
-    <img src="https://img.shields.io/github/followers/denimarswandi?label=Follow&style=social" />
+  <a href="https://github.com/denimars" target="blank">
+    <img src="https://img.shields.io/github/followers/denimars?label=Follow&style=social" />
   </a>
 </p>
 
