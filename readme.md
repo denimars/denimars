@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Deni Marswandi</h1>
-<h3 align="center">Turning Problems Into Code</h3>
 
 <p align="center">
   I'm a Software Engineer who loves turning ideas into reliable software. I value simplicity, clarity, and impact.
